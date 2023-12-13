@@ -1,0 +1,17 @@
+.react-calendar {
+  max-width: 900px;
+  width: 400px;
+  border-top-left-radius: 8px;
+  border-bottom-left-radius: 8px;
+  /* box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1); */
+  border: none;
+}
+.react-calendar-background-color {
+  background-color: #e45566;
+  color: aliceblue;
+}
+
+.react-calendar__tile {
+  padding: 8px;
+  color: aliceblue;
+}

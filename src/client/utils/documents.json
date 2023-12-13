@@ -1,0 +1,32 @@
+{ 
+    "documents" : [
+    {
+      "id": 1,
+      "title": " Engage Voice Agent Training",
+      "description":"Essential training for Engage Voice on the agent level.",
+      "type": "video",
+      "link":"https://drive.google.com/file/d/11dCmvNhvQ38w_nZexjvId_bWmRSE239a/preview",
+      "downloadLink":"https://drive.google.com/file/d/11dCmvNhvQ38w_nZexjvId_bWmRSE239a/view"
+    },
+    {
+      "id": 2,
+      "title": "Engage Voice Supervisor Training",
+      "description":
+        "Essential training for Engage Voice on the supervisor level.",
+      "type": "video",     
+       "link":"https://drive.google.com/file/d/11bbxKwYhXsNhzgQdtl5XPkcDq_Hh7W0t/preview",
+       "downloadLink":"https://drive.google.com/file/d/11bbxKwYhXsNhzgQdtl5XPkcDq_Hh7W0t/view"
+
+    },
+    {
+      "id": 3,
+      "title": "Engage Voice Quick Guide",
+      "description":
+        "This Quick Guide covers the basics of using the Engage Voice Integrated Softphone.",
+      "type": "pdf",  
+      "url":"https://drive.google.com/file/d/1pj-gzbvETAAsJIvegsoBOh5v5CJdMPrZ/preview",
+      "downloadLink":"https://drive.google.com/file/d/1pj-gzbvETAAsJIvegsoBOh5v5CJdMPrZ/view"
+
+    }
+]
+}

@@ -1,0 +1,11 @@
+.react-clock {
+  padding: 85px;
+  margin: auto;
+  margin-top: 38px;
+}
+
+.react-clock__tile {
+  padding: 8px;
+  color: aliceblue;
+
+}
